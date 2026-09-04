@@ -1,0 +1,44 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+
+venv/
+.venv/
+env/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Streamlit
+
+.streamlit/secrets.toml
+
+# Model/data files
+
+*.pkl
+*.joblib
+
+# Environment files
+
+.env
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Python packaging
+
+*.egg-info/
+dist/
+build/
